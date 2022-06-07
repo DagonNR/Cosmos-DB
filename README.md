@@ -1,4 +1,4 @@
-# Cosmos DataBase
+# Uso de Cosmos DataBase
 En este repositorio tenemos una demostración del uso de Cosmos DataBase en Azure.
 
 ![Microsoft-Azure-Cosmos-DB](https://github.com/DagonNR/Cosmos-DB/blob/main/images/Microsoft-Azure-Cosmos-DB.png)
